@@ -8,13 +8,14 @@ Ce projet sera prochainement utilisé pour la réalisation d'un planning scolair
 
 Pour faire fonctionner ce projet, vous aurez besoins d'installer les logiciels suivants :
 
-* [Node.js](https://nodejs.org/) - Serveur
-* [MongoDB](https://www.mongodb.com/download-center/community/releases) - Base de données
+* [Docker](https://www.docker.com/products/docker-desktop/) 
 
 ## Installation
 
-
 ```
+docker-compose up 
+```
+
 
 ## Auteurs
 
