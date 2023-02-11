@@ -22,7 +22,7 @@ services:
       - myedtplanner_network
   front:
     build:
-      context: ./font
+      context: ./front
       dockerfile: Dockerfile
     ports:
       - "3000:3000"
